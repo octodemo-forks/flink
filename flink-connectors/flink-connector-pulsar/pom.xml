@@ -40,7 +40,7 @@ under the License.
 
 		<!-- Test Libraries -->
 		<protobuf-maven-plugin.version>0.6.1</protobuf-maven-plugin.version>
-		<assertj-core.version>3.20.2</assertj-core.version>
+		<assertj-core.version>3.24.2</assertj-core.version>
 		<commons-lang3.version>3.11</commons-lang3.version>
 		<grpc.version>1.33.0</grpc.version>
 	</properties>
